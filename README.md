@@ -1,26 +1,26 @@
 Markdown
 
-# Useful Tools for Students
+# Career paths in Tech
 
 ## Introduction 
-This repository is a mini knowledge base that highlights useful tools students can use to improve productivity,organisation,and learning efficiency.
+The technology industiry offers many exciting career opportunities.This repository exproles three important roles in tech and explain what they involve,required skills, and career growth opportunities 
 
 Each team member contributes one tool and explain how it benefits students.
 
 ---
 
-## 1. VS Code
+## 1. Software Engineer
 
 (To be added)
 
 ---
 
-## 2. Notion
+## 2. Data Scienceist
 
 (To be added)
 
 ---
 
-## 3. Canva
+## 3. UX/UI Designer
 
 (To be added)
