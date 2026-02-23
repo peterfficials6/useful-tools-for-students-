@@ -19,10 +19,10 @@ A Software Engineer design, deelop, tests, and maintains software applications.T
 - Testing software systems
  
 ### Required Skills
-Programming languages {Python, JavaScripts, Java etc
-Problem-solving skills
-Version control tools like Git
-Understanding of algorithms and data structures
+- Programming languages {Python, JavaScripts, Java etc}
+- Problem-solving skills
+- Version control tools like Git
+- Understanding of algorithms and data structures
 
 ### Career Growth
 Software Engineers cann grow into roles such as Senior Developer,Technical Lead, or Engineering Manager.
