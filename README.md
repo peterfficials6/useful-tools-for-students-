@@ -10,22 +10,10 @@ Each team member contributes one tool and explain how it benefits students.
 ---
 
 ## 1. Software Engineer
-A Software Engineer design, deelop, tests, and maintains software applications.They work on Websites, Mobile Apps, and backend systems.
 
-### Key Responsibilities 
-- Writing and maitaining code
-- Debugging and fixing errors
-- Collaborating with other developers
-- Testing software systems
- 
-### Required Skills
-- Programming languages {Python, JavaScripts, Java etc}
-- Problem-solving skills
-- Version control tools like Git
-- Understanding of algorithms and data structures
+(To be added)
 
-### Career Growth
-Software Engineers cann grow into roles such as Senior Developer,Technical Lead, or Engineering Manager.
+---
 
 ## 2. Data Scienceist
 
