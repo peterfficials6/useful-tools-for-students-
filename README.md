@@ -8,9 +8,21 @@
 ---
 
 # Career paths in Tech
-
+----
 ## 1. Software Engineer
-
+A Software Engineer design, deelop, tests, and maintains software applications.They work on Websites, Mobile Apps, and backend systems.
+### Key Responsibilities 
+- Writing and maitaining code
+- Debugging and fixing errors
+- Collaborating with other developers
+- Testing software systems
+### Required Skills
+- Programming languages {Python, JavaScripts, Java etc}
+- Problem-solving skills
+- Version control tools like Git
+- Understanding of algorithms and data structures
+### Career Growth
+Software Engineers cann grow into roles such as Senior Developer,Technical Lead, or Engineering Manager.
 
 ---
 
@@ -28,7 +40,6 @@
 - Applying data insights to specific industries, such as finance, healthcare, or marketing
 
 ---
-
 
 ## 3.UX/UI DESINGER 
 A UX/UI designer creates intuitive, visually appealing, and functional digital products (apps, websites) by combining user experience (UX) research with user interface (UI) design
