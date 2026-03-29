@@ -3,7 +3,7 @@
 ## Team Members
 - Peter Kamau
 - Erick Kamau
-- Maureen 
+- Maureen
  
 ---
 
@@ -27,9 +27,11 @@ Software Engineers cann grow into roles such as Senior Developer,Technical Lead,
 ---
 
 ## 2.DATA SCIENTIST 
+
 ## Role
 - an analytical expert who utilizes statistics, machine learning, programming (Python, R, SQL), and domain knowledge to analyze, model, and interpret complex dataset
 ## Key Responsibilities and Skills
+
 ### Data Preparation 
 - Gathering, cleaning, and structuring messy, unstructured data.
 ### Analysis & Modeling 
@@ -43,7 +45,8 @@ Software Engineers cann grow into roles such as Senior Developer,Technical Lead,
 
 ## 3.UX/UI DESINGER 
 A UX/UI designer creates intuitive, visually appealing, and functional digital products (apps, websites) by combining user experience (UX) research with user interface (UI) design
-## Key Responsibilities and Skills 
+## Key Responsibilities and Skills
+
 ### UX (User Experience) 
 - Conducts user research, defines user journeys, creates wireframes, and performs usability testing to make products functional and easy to use.
 ### UI (User Interface) 
