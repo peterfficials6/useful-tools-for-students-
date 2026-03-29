@@ -3,7 +3,7 @@
 ## Team Members
 - Peter Kamau
 - Erick Kamau
-- Maureen 
+- Maureen
  
 ---
 
